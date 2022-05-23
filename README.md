@@ -1,1 +1,1 @@
-# funny-bazel-projects-
+just a repo with random (funny) bazel projects
