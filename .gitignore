@@ -1,0 +1,13 @@
+# mac OS
+.DS_Store
+
+# idea
+.idea/
+
+# bsp
+.bsp/
+.bazelbsp/
+
+# bazel
+bazel-*
+
