@@ -5,7 +5,7 @@ java_library(
     srcs = glob(["*.java"]),
     visibility = ["//visibility:public"],
     deps = [
-        "//libB/src/java/libB:libB1"
+        "//libB/src/java/libB:libB1",
     ],
 )
 
@@ -14,6 +14,6 @@ java_library(
     srcs = glob(["*.java"]),
     visibility = ["//visibility:public"],
     deps = [
-        "//libB/src/java/libB:libB2"
+        "//libB/src/java/libB:libB2",
     ],
 )

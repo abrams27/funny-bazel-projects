@@ -5,7 +5,7 @@ java_library(
     srcs = ["LibB.java"],
     visibility = ["//visibility:public"],
     deps = [
-        "//libC/src/java/libC"
+        "//libC/src/java/libC",
     ],
 )
 
@@ -14,6 +14,6 @@ java_library(
     srcs = ["LibB.java"],
     visibility = ["//visibility:public"],
     deps = [
-        "//libC/src/java/libC"
+        "//libC/src/java/libC",
     ],
 )
